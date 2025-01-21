@@ -1,0 +1,2 @@
+Implementing LLM into a Telegram bot using Ollama and Aiogram. For data storage, sqlite3 is used, but I'm considering replacing it with something else because the large context puts too much load on the model. 
+In the future, there are plans to add the ability to recognize voice messages and images. Additionally, there are plans to add online connectivity to ChatGPT or another online model, as not all personal computers are capable of running sufficiently powerful LLMs.
